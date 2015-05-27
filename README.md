@@ -1,5 +1,7 @@
 # Headline.1
 
+## Headline.2
+
 ```php
 $a = array();
 echo $a;
